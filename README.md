@@ -4,7 +4,7 @@ Bu proje, bireylerin günlük akıllı telefon kullanım süreleri, uyku düzenl
 
 ## 📊 Proje Hakkında
 
-Proje kapsamında **50.000 satırlık** bir veri seti (`Smartphone_Usage_Productivity_Dataset_50000.csv`) kullanılmıştır. Çalışma iki temel aşamadan oluşmaktadır:
+Proje kapsamında **50.000 satırlık** bir veri seti (`Smartphone_Usage_Productivity_Dataset_50000.csv`) kullanılmıştır indirmek için (https://www.kaggle.com/datasets/amar5693/screen-time-sleep-and-stress-analysis-dataset/data) adresinden ulaşabilirsiniz. Çalışma iki temel aşamadan oluşmaktadır:
 
 1.  **Keşifçi Veri Analizi (EDA):** Veriler arasındaki gizli ilişkileri ve dağılımları görselleştirme.
 2.  **Sınıflandırma Modelleri Eğitimi:** Stres seviyesini tahmin etmek için çeşitli algoritmaların performanslarının karşılaştırılması.
